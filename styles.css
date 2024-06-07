@@ -1,8 +1,8 @@
 :root{
     --branco-principal :#FFFFFF;
     --cinza-secundario :#C0C0C0;
-    --botao-azul:#167BF7;
-    --cor-de-fundo:rgb(89, 127, 230);
+    --botao-azul:#34f716;
+    --cor-de-fundo:rgb(230, 199, 89);
     --fonte-principal:'inter';
     --botao-azul-efeito: #3c92fa;
 }
